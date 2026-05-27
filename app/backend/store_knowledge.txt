@@ -1,0 +1,88 @@
+# THE BREW LOGIX - CORPORATE KNOWLEDGE BASE
+
+## [SECTION 1] ประวัติและวิสัยทัศน์
+ก่อตั้งเมื่อปี 2024 โดยกลุ่ม Software Engineer ที่หลงใหลในกาแฟ เราเชื่อว่าการดื่มกาแฟคือการ Debug ชีวิตในตอนเช้า ปัจจุบันมีสาขาหลักอยู่ที่นิมมาน ซอย 9 เชียงใหม่ 
+* Google Maps: https://maps.google.com/q=brewlogix-chiangmai
+* เว็บไซต์ทางการ: https://www.brewlogix-specialty.com/about-us
+
+## [SECTION 2] เมนูเครื่องดื่มและเบเกอรี่ (Update: 2026-05)
+| หมวดหมู่ | รายการสินค้า | ราคา | รายละเอียด |
+|---|---|---|---|
+| Signature | Logix Matrix | 195 | กาแฟดริปเย็นผ่านชั้นน้ำแข็งแกะสลักรูปฟันเฟือง |
+| Espresso | Americano | 85 | เมล็ดคั่วกลาง (Colombia x Thai) |
+| Espresso | Cappuccino | 100 | ฟองนมนุ่มละเอียดแบบ Micro-foam |
+| Non-Coffee | Matcha Ritual | 160 | มัทฉะเกรดพิธีการจากอูจิ นำเข้าโดยตรง |
+| Bakery | Butter Croissant | 85 | เนยแท้จากฝรั่งเศส อบสดใหม่ทุก 7:00 น. |
+
+**หมายเหตุ:** ลูกค้าสามารถเช็คเมนูรายวันได้ที่ Instagram: @brewlogix_daily (https://www.instagram.com/brewlogix_daily)
+
+## [SECTION 3] ระบบสมาชิก Logix Rewards (Member Tiers)
+1. ระดับ "Junior": (สมัครฟรี) รับแต้ม 1 แต้มทุก 50 บาท
+2. ระดับ "Senior": (สะสมครบ 50 แต้ม) รับส่วนลดถาวร 5% ทุกเมนู และสิทธิ์ชิมเมล็ดกาแฟใหม่ฟรีเดือนละ 1 ครั้ง
+3. ระดับ "Partner": (สะสมครบ 200 แต้ม) ส่วนลด 10% และได้สิทธิ์เข้าร่วม Workshop การดริปกาแฟฟรีปีละ 2 ครั้ง
+*ตรวจสอบแต้มคงเหลือได้ที่ LINE OA: @brewlogix_member*
+
+## [SECTION 4] คู่มือปฏิบัติงานพนักงาน (Internal Use Only)
+### การเปิดร้าน (Opening Protocol)
+* พนักงานต้องมาถึงร้านก่อน 07:30 น.
+* ตรวจสอบอุณหภูมิตู้แช่นมต้องอยู่ระหว่าง 2-4 องศาเซลเซียสเสมอ
+* ล้างเครื่อง Espresso ด้วยกระบวนการ Backflush ก่อนชงแก้วแรก
+* รหัส Wi-Fi พนักงาน: internal_staff_2026 (ห้ามแจ้งลูกค้า)
+
+### การจัดการข้อร้องเรียน (SOP)
+หากลูกค้าไม่พอใจรสชาติกาแฟ:
+1. รับฟังด้วยความสุภาพ
+2. เสนอทำแก้วใหม่ให้ทันทีโดยไม่คิดเงิน
+3. บันทึกปัญหาลงใน Logbook หรือกรอกฟอร์มออนไลน์ที่: https://bit.ly/brewlogix-feedback-internal
+
+## [SECTION 5] ข้อมูลติดต่อและคำถามที่พบบ่อย (FAQ)
+Q: มีที่สำหรับนั่งทำงาน (Co-working) ไหม?
+A: มีครับ เรามีปลั๊กไฟให้บริการเกือบทุกโต๊ะ และ Wi-Fi ฟรีสำหรับลูกค้า 2 ชั่วโมงต่อใบเสร็จ
+Q: รับจัด Catering นอกสถานที่ไหม?
+A: รับครับ เริ่มต้นที่ 50 แก้วขึ้นไป สนใจติดต่อฝ่ายขายที่เบอร์ 099-XXX-XXXX หรืออีเมล sales@brewlogix.com
+
+# [MASTER DOCUMENT] THE BREW LOGIX - FULL OPERATIONS & INVENTORY
+
+## [SECTION 6] รายการเมล็ดกาแฟนำเข้าประจำฤดูกาล (Green Bean Inventory 2026)
+| รหัสสินค้า | แหล่งกำเนิด (Origin) | สายพันธุ์ | ความสูง (masl) | Taste Notes | ราคา/200g |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| BL-001 | Columbia Huila | Caturra | 1,750 | Red Apple, Caramel, Milk Chocolate | 450 |
+| BL-002 | Kenya Nyeri | SL28 | 1,900 | Blackcurrant, Tomato, High Acidity | 580 |
+| BL-003 | Thailand Mae Jan Tai | Typica | 1,350 | Nutty, Brown Sugar, Orange Peel | 320 |
+| BL-004 | Costa Rica Tarrazu | Geisha | 2,100 | Jasmine, Peach, Bergamot, Honey | 1,200 |
+| BL-005 | Ethiopia Sidamo | Heirloom | 2,000 | Lemonade, Floral, Black Tea | 520 |
+
+*ลิ้งค์สั่งซื้อสำหรับพาร์ทเนอร์: https://b2b.brewlogix.com/wholesale/inventory*
+
+## [SECTION 7] คู่มือทางเทคนิคและการดูแลรักษาเครื่องจักร (Technical SOP)
+### 7.1 เครื่อง Espresso (La Marzocco Linea PB)
+* **การตั้งค่าอุณหภูมิ:** ต้องคงที่ที่ 93.5 องศาเซลเซียส (สามารถปรับได้ที่หน้าจอควบคุม PID)
+* **แรงดันสกัด:** ต้องอยู่ที่ 9 Bar (ตรวจสอบที่เข็มวัดแรงดันขณะสกัด)
+* **การทำความสะอาดรายสัปดาห์:** 1. ถอด Shower Screen ออกมาแช่น้ำยา Caffiza 15 นาที
+  2. ขัดคราบกาแฟใน Group Head ด้วยแปรงไนลอน
+  3. ล้างน้ำสะอาดจนกว่าจะไม่เหลือฟองน้ำยา
+  4. ดูวิดีโอสาธิต: https://youtube.com/brewlogix-maintenance/la-marzocco-clean
+
+### 7.2 เครื่องบด (Mahlkönig EK43 & Peak)
+* **Setting สำหรับ Filter:** เบอร์ 8.5 - 10.0 (ตามขนาดอนุภาคที่ต้องการ)
+* **Setting สำหรับ Espresso:** เบอร์ 1.8 - 2.2 (ต้อง Calibrate ทุกเช้าตามสภาพอากาศ)
+
+## [SECTION 8] กฎระเบียบและสวัสดิการพนักงาน (HR Policy 2026)
+### 8.1 การลาและวันหยุด
+* **วันลาพักร้อน:** พนักงานประจำที่ทำงานครบ 1 ปี ได้สิทธิ์ลา 10 วันต่อปี
+* **การลาป่วย:** ต้องแจ้งหัวหน้างานล่วงหน้าอย่างน้อย 2 ชั่วโมงก่อนเริ่มงาน ผ่านระบบ: https://hr.brewlogix.com/leave-request
+* **เงินโบนัส:** พิจารณาจาก KPI รายปีและยอดขายรวมของสาขา โดยจะจ่ายทุกวันที่ 5 ของเดือนมกราคม
+
+### 8.2 เครื่องแต่งกาย
+* ต้องสวมผ้ากันเปื้อนสีน้ำตาลเข้ม (โลโก้ร้าน) ตลอดเวลาที่ปฏิบัติหน้าที่
+* ห้ามสวมรองเท้าแตะ ต้องเป็นรองเท้าหุ้มส้นเท่านั้นเพื่อความปลอดภัย
+
+## [SECTION 9] แผนการตลาดและแคมเปญในอนาคต (Upcoming Events)
+1. **Summer Hackathon Coffee:** (มิถุนายน 2026) ร่วมกับ Community Developer ในเชียงใหม่ แจกเครื่องดื่มฟรีสำหรับคนที่โชว์โปรเจกต์ AI
+2. **Specialty Coffee Expo:** (สิงหาคม 2026) จัดที่ Central Festival Chiang Mai บูธ A12
+3. **Collaboration with Local Artists:** รายละเอียดภาพวาดบนแก้วกาแฟรุ่น Limited Edition: https://brewlogix.com/art-collab-2026
+
+## [SECTION 10] นโยบายความเป็นส่วนตัวและคุ้มครองข้อมูล (PDPA Compliance)
+เราให้ความสำคัญกับข้อมูลลูกค้า ข้อมูลที่เก็บผ่าน LINE OA จะถูกใช้เพื่อการวิเคราะห์โปรโมชั่นเท่านั้น
+* อ่านนโยบายเต็ม: https://www.brewlogix.com/privacy-policy
+* แจ้งลบข้อมูลสมาชิก: ติดต่อ dpo@brewlogix.com
