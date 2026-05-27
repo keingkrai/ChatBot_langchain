@@ -1,5 +1,0 @@
-.env
-*.app
-*.venv
-*.chroma_langchain_db
-*.diagram
